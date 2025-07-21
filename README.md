@@ -12,8 +12,11 @@ A start-up company is developing a portable battery prototype for the EV market 
 1.1. Purpose of Analysis
 
 •	To interpret and explain market demand based on survey results.
+
 •	To identify and suggest appropriate market segmentation.
+
 •	To propose a pricing strategy grounded in data insights.
+
 
 1.2. Approach to Analysis
 
